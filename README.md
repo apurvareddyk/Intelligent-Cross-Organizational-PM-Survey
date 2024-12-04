@@ -121,7 +121,7 @@ The workflow of the proposed Intelligent Cross-organizational Process Mining. Sp
 ## Links
 
 - Medium Article [link](https://medium.com/@apurva.karne/intelligent-cross-organizational-process-mining-9ae34707c996).
-- Slideshare [link](https://www.slideshare.net).
+- Slideshare [link](https://www.slideshare.net/slideshow/intelligent-cross-organizational-process-mining-a-survey-and-new-perspectives/273829009).
 - Youtube [link](https://www.youtube.come).
 
 
