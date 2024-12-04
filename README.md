@@ -1,7 +1,7 @@
 # Intelligent Cross-Organizational Process Mining
 ### Transforming Data-Driven Collaboration
 
-This repository is inspired by the paper ["Intelligent Cross-Organizational Process Mining"](https://arxiv.org/pdf/2407.11280), which explores the transformative potential of Intelligent Cross-Organizational Process Mining (ICPM). By integrating AI, federated learning, and AutoML, ICPM enables secure, efficient, and collaborative workflow optimization across organizational boundaries.
+This repository is inspired by the paper [Intelligent Cross-Organizational Process Mining: A Survey and New Perspectives](https://arxiv.org/pdf/2407.11280), which explores the transformative potential of Intelligent Cross-Organizational Process Mining (ICPM). By integrating AI, federated learning, and AutoML, ICPM enables secure, efficient, and collaborative workflow optimization across organizational boundaries.
 
 ---
 
@@ -136,6 +136,6 @@ ICPM is more than a technological innovation—it’s a paradigm shift for cross
 ## Acknowledgment
 
 This repository is inspired by the arvix paper:  
-["Intelligent Cross-Organizational Process Mining"](https://arxiv.org/pdf/2407.11280).  
+[Intelligent Cross-Organizational Process Mining: A Survey and New Perspectives](https://arxiv.org/pdf/2407.11280).  
 
 ---
